@@ -4,9 +4,6 @@ A simple Flask web application for practicing Git collaboration.
 
 ## Setup Instructions
 
-OLA MADE SOME CHANGES
-
-
 1. Clone this repository:
 ```bash
 git clone <repository-url>
